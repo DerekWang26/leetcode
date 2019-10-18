@@ -1,3 +1,3 @@
 # LeetCode
 
-Hello, this is my LeetCode analysis.
+This is my LeetCode analysis.
